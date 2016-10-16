@@ -1,5 +1,5 @@
 # oeLabC
-octopus engine Lab (for raspberry Pi 3 - GPIO &amp; graphics) C/C++
+octopus engine Lab (for <b>Raspberry Pi 3</b> - GPIO &amp; graphics) C/C++
 
 
 
