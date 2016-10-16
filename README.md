@@ -12,8 +12,8 @@ see https://github.com/ajstarks/openvg#build-and-run<br />
 <hr />
 <h2>bcm2835</h2>
 GPIO library for Raspberry Pi<br />
-<br />
-<br />
+http://www.airspayce.com/mikem/bcm2835/<br />
+see http://www.raspberry-projects.com/pi/programming-in-c/io-pins/bcm2835-by-mike-mccauley<br />
 <hr />
 <pre>
 //compile: 
