@@ -7,10 +7,12 @@ octopus engine Lab (for raspberry Pi 3 - GPIO &amp; graphics) C/C++
 <h2>openVG</h2>
 C graphics library for Raspberry Pi<br />
 https://github.com/ajstarks/openvg <br />
-
+see https://github.com/ajstarks/openvg#build-and-run<br />
+<br />
 <hr />
 <h2>bcm2835</h2>
 GPIO library for Raspberry Pi<br />
+<br />
 <br />
 <hr />
 <pre>
@@ -19,4 +21,5 @@ GPIO library for Raspberry Pi<br />
 //run: 
 //sudo ./oelab
 </pre>
+<br />
 
