@@ -19,7 +19,7 @@ see http://www.raspberry-projects.com/pi/programming-in-c/io-pins/bcm2835-by-mik
 //compile: 
 //gcc -Wall -I/opt/vc/include -I/opt/vc/include/interface/vmcs_host/linux -I/opt/vc/include/interface/vcos/pthreads -I..  -o oeLab oeLab.c ./openvg/libshapes.o ./openvg/oglinit.o -L/opt/vc/lib -lEGL -lGLESv2 -lbcm_host -lpthread  -ljpeg  -l bcm2835
 //run: 
-//sudo ./oelab
+//sudo ./oeLab
 </pre>
 <br />
 
